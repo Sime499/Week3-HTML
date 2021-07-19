@@ -1,0 +1,33 @@
+.style * {box sizing :border-box
+}
+
+nav { background:594484;
+                 width :100%
+                overflow:auto}
+.logo{
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+        background-image: url("./1991.jpeg");
+ul {
+    background-color: YELLOW;
+}
+    
+    .list {
+       background-color: rgb(80, 255, 95);
+       color: rgb(255, 255, 255); 
+       font-size: 28px; 
+    }
+    
+    #my-menu {
+        background-color: teal;
+        color: white; 
+    }
+    
+    footer {
+        background-color: blue;
+    }
