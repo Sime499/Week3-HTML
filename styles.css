@@ -1,0 +1,63 @@
+#score {
+  background-color: black;
+  padding-top: 20px;
+  color: aquamarine;
+  text-align: right;
+}
+
+.border {
+  background-color: palegreen;
+  padding-top: 20px;
+  padding-left: 2x;
+  padding-right: 20x;
+}
+
+.container {
+  background-color: black;
+  width: 750px;
+  height: 750px;
+  margin: 0px;
+  padding-top: 6px;
+  position: absolute;
+  left: 10%;
+  right: 10%;
+}
+
+}
+
+.row {
+  display: table;
+  position: relative;
+}
+
+.block {
+  width: 100px;
+  height: 50px;
+  display: table-cell;
+  border: 1px black solid;
+}
+
+
+
+.red {
+  background-color: red;
+}
+
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+  position: relative;
+  border-bottom: 100%;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.black {
+  background-color: black;
+}
